@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r
+pwd 0-hello_world 
